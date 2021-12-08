@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ubairnoor.github.io/csb-mn7ml/static/css/main.d4f29602.chunk.css",
+    "main.js": "https://ubairnoor.github.io/csb-mn7ml/static/js/main.c7ae6245.chunk.js",
+    "main.js.map": "https://ubairnoor.github.io/csb-mn7ml/static/js/main.c7ae6245.chunk.js.map",
+    "runtime-main.js": "https://ubairnoor.github.io/csb-mn7ml/static/js/runtime-main.6a069f12.js",
+    "runtime-main.js.map": "https://ubairnoor.github.io/csb-mn7ml/static/js/runtime-main.6a069f12.js.map",
+    "static/js/2.03207603.chunk.js": "https://ubairnoor.github.io/csb-mn7ml/static/js/2.03207603.chunk.js",
+    "static/js/2.03207603.chunk.js.map": "https://ubairnoor.github.io/csb-mn7ml/static/js/2.03207603.chunk.js.map",
+    "index.html": "https://ubairnoor.github.io/csb-mn7ml/index.html",
+    "static/css/main.d4f29602.chunk.css.map": "https://ubairnoor.github.io/csb-mn7ml/static/css/main.d4f29602.chunk.css.map",
+    "static/js/2.03207603.chunk.js.LICENSE.txt": "https://ubairnoor.github.io/csb-mn7ml/static/js/2.03207603.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a069f12.js",
+    "static/js/2.03207603.chunk.js",
+    "static/css/main.d4f29602.chunk.css",
+    "static/js/main.c7ae6245.chunk.js"
+  ]
+}
